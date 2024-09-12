@@ -1,0 +1,24 @@
+.dashboard {
+    padding-top: 60px; /* Adjust based on your header height */
+}
+
+.dashboard-content {
+    padding: 20px;
+}
+
+.charts-row {
+    display: flex;
+    flex-wrap: wrap; /* Allows charts to wrap on smaller screens */
+    gap: 20px; /* Space between charts */
+}
+
+.chart-container {
+    flex: 1;
+    min-width: 300px; /* Ensures charts have a minimum width */
+    max-width: 600px; /* Ensures charts do not exceed a certain width */
+    padding: 10px;
+    border: 1px solid #ddd; /* Border for aesthetics */
+    border-radius: 8px; /* Rounded corners */
+    background-color: #fff; /* White background for charts */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for elevation */
+}

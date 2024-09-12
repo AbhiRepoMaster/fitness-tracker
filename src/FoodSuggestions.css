@@ -1,0 +1,28 @@
+/* FoodSuggestions.css */
+
+/* Container for the food suggestions and pie chart */
+.food-suggestions {
+    padding: 1rem;
+    max-width: 1000px; /* Restrict the max-width of the entire component */
+    margin: 0 auto; /* Center align the component */
+}
+
+    /* Style the list of food suggestions */
+    .food-suggestions ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .food-suggestions li {
+        margin-bottom: 0.5rem;
+    }
+
+/* Style the pie chart */
+.pie-chart {
+    margin-top: 1rem;
+    max-width: 100%; /* Ensure the chart does not exceed container width */
+    height: 300px; /* Fixed height to maintain consistency */
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\19048\\Projects\\fitness-tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\components\\foodsuggestions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\components\\foodsuggestions.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\components\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\components\\dashboard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\foodsuggestions.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\foodsuggestions.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\profile.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\components\\header.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\header.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\components\\profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\components\\profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|c:\\users\\19048\\projects\\fitness-tracker\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E522355B-E5BB-4323-BA9F-0C2EB475B2BA}|fitness-tracker.esproj|solutionrelative:src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\App.jsx",
+              "RelativeDocumentMoniker": "src\\App.jsx",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\App.jsx",
+              "RelativeToolTip": "src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T10:31:34.065Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.jsx",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\components\\Dashboard.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Dashboard.jsx",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\components\\Dashboard.jsx",
+              "RelativeToolTip": "src\\components\\Dashboard.jsx",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAgwKcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T10:37:04.469Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\main.jsx",
+              "RelativeDocumentMoniker": "src\\main.jsx",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\main.jsx",
+              "RelativeToolTip": "src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T11:17:17.124Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodSuggestions.css",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\FoodSuggestions.css",
+              "RelativeDocumentMoniker": "src\\FoodSuggestions.css",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\FoodSuggestions.css",
+              "RelativeToolTip": "src\\FoodSuggestions.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T13:14:17.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.css",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\Dashboard.css",
+              "RelativeDocumentMoniker": "src\\Dashboard.css",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\Dashboard.css",
+              "RelativeToolTip": "src\\Dashboard.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T13:04:40.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodSuggestions.jsx",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\components\\FoodSuggestions.jsx",
+              "RelativeDocumentMoniker": "src\\components\\FoodSuggestions.jsx",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\components\\FoodSuggestions.jsx",
+              "RelativeToolTip": "src\\components\\FoodSuggestions.jsx",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwDUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T13:03:50.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.css",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\Profile.css",
+              "RelativeDocumentMoniker": "src\\Profile.css",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\Profile.css",
+              "RelativeToolTip": "src\\Profile.css",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T12:40:39.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Header.jsx",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\components\\Header.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Header.jsx",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\components\\Header.jsx",
+              "RelativeToolTip": "src\\components\\Header.jsx",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T11:35:48.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Header.css",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\Header.css",
+              "RelativeDocumentMoniker": "src\\Header.css",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\Header.css",
+              "RelativeToolTip": "src\\Header.css",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-12T10:47:59.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "profile.jsx",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\components\\profile.jsx",
+              "RelativeDocumentMoniker": "src\\components\\profile.jsx",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\src\\components\\profile.jsx",
+              "RelativeToolTip": "src\\components\\profile.jsx",
+              "ViewState": "AQIAACgAAAAAAAAAAAAgwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-09-12T12:36:56.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\19048\\Projects\\fitness-tracker\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\19048\\Projects\\fitness-tracker\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-12T10:50:45.365Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
